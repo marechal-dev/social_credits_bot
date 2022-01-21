@@ -1,0 +1,28 @@
+{
+  "name": "social_credit_bot",
+  "version": "1.0.0",
+  "description": "Discord.js based Bot. Features Social Credits System.",
+  "main": "index.js",
+  "author": "Marechal Dev",
+  "license": "MIT",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^0.11.0",
+    "@discordjs/opus": "^0.7.0",
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "@discordjs/voice": "^0.7.5",
+    "consola": "^2.15.3",
+    "discord-api-types": "^0.26.1",
+    "discord.js": "^13.6.0",
+    "dotenv": "^14.2.0",
+    "ffmpeg-static": "^4.4.1",
+    "libsodium-wrappers": "^0.7.9",
+    "mongoose": "^6.1.7",
+    "util": "^0.12.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

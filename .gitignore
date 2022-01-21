@@ -1,0 +1,7 @@
+.idea
+node_modules/
+.env
+config.json
+yarn.lock
+yarn-error.log
+social_credit_bot.zip
